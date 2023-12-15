@@ -1,5 +1,5 @@
 PROJECT TITLE: Implementación de árboles binarios de búsqueda.
-PURPOSE OF PROJECT:To mando como base la información del archivo sobre árboles, y el código base proporcionado:
+PURPOSE OF PROJECT:Tomando como base la información del archivo sobre árboles, y el código base proporcionado:
 VERSION or DATE: 15/12/23 V1.0
 AUTHORS: Carmelo Rodriguez Chab
 USER INSTRUCTIONS:
